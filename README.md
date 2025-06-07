@@ -2,9 +2,10 @@
 
 ## Nama Kelompok
 Anggota:
-Ferdy Fitriansyah Rowi (G1A022082)
-Nama Lengkap 2 (NIM)
-Nama Lengkap 3 (NIM)
+
+1. Ferdy Fitriansyah Rowi (G1A022082)
+2. Saniyyah Zhafirah (G1A022081)
+3. Amirah Putri Nabilah (G1A022090)
 
 ## Deskripsi
 Sistem ini merupakan implementasi pengenalan visual (computer vision) yang dirancang untuk mendeteksi keberadaan helm dan rompi keselamatan pada pekerja. Sistem ini menggunakan teknik deep learning untuk melakukan deteksi objek secara real-time.
